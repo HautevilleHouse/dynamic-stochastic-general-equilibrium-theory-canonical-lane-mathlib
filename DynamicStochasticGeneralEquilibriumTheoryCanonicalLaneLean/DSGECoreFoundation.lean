@@ -1,0 +1,9 @@
+import DynamicStochasticGeneralEquilibriumTheoryCanonicalLaneLean.DSGEAdmissibleClass
+
+namespace HautevilleHouse
+namespace DynamicStochasticGeneralEquilibriumTheoryCanonicalLaneLean
+
+structure DSGEWitnessClosed (O : DSGEAdmittedObject) : Prop := O.conclusion
+
+end DynamicStochasticGeneralEquilibriumTheoryCanonicalLaneLean
+end HautevilleHouse
